@@ -1,3 +1,7 @@
+
+<?php  require_once('MkEncrypt.php');
+MkEncrypt('613218');?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -74,74 +78,12 @@
 <br>第二步，滑至最底部退出原来的ID，然后再登录下面的新ID；
 <br>第三步，弹出安全弹窗，选择“其他选项”和“不升级”就可以。
 <br>第四步，搜索Shadowracket下载，下载完务必退出登录
-
-
 </p>
+<hr>
+<p><a class="btn btn-warning  mr-2 mb-2" role="button" href="https://100858.xyz" target="_blank" rel="noopener">永久苹果账号</a><a class="btn btn-success mr-2 mb-2" role="button" href="https://c1.mdaier.com/?product_id=38&channel=tren0797" target="_blank" rel="nofollow noopener noreferrer">福利软件合集</a><a class="btn btn-danger  mr-2 mb-2" role="button" href="https://www.baotao.link" target="_blank" rel="nofollow noopener noreferrer">付费稳定节点</a><a class="btn btn-info mr-2 mb-2" role="button" href="https://t.me/xhj1002" target="_blank" rel="nofollow noopener noreferrer">加入TG交流群</a></p>
 </p>
 </td>
 </tr>
 </table>
 </div>
-<object data="https://w.jiesuo.link/share/a?access_token=0c2528560c6eaac5ec81a06116a133d4" width="400" height="250"></object>
-<object data="https://w.jiesuo.link/share/a?access_token=360b202e0f1d9642029e568ef88ab747" width="400" height="250"></object>
-<object data="https://w.jiesuo.link/share/a?access_token=7d901efb5ba1acc10a3e64c5f3bdf4de" width="400" height="250"></object>
-<object data="https://w.jiesuo.link/share/a?access_token=821a02ff4d8812d5796160c76a205ec5" width="400" height="250"></object>
-<object data="https://jxfhv.sha.cx/1d9a382f6db95df4a647e6d8ee9b0b48" width="400" height="250"></object>
-<object data="https://kvo6r.sha.cx/c441ee2b195070be444c37af748928ca" width="400" height="250"></object>
-<object data="https://u.fast6.xyz/share/a?access_token=ae4b3765468946f9190f04a40496509c" width="400" height="250"></object>
-<object data="https://g2yn9.sha.cx/33f7955a5624b8083be51685d4955d61" width="400" height="250"></object>
-<object data="https://hptaf.sha.cx/782d01c9ebf877398674333eda3f71a4" width="400" height="250"></object>
-<object data="https://id.ali-door.top/share/tBNYyQTbad" width="400" height="250"></object>
-<object data="https://id.ali-door.top/share/NQjIlisVdg" width="400" height="250"></object>
-<object data="https://id.ali-door.top/share/enzCmThQoH" width="400" height="250"></object>
-<object data="https://id.ali-door.top/share/OZWEjQAGca" width="400" height="250"></object>
-<object data="https://id.ali-door.top/share/QJTYIrfpXk" width="400" height="250"></object>
-	</p>
-
-
-
-
-  </div> 
-</div>
-
-
-
-
-    <div class="footer">
-        <div class="text-center">
-             ©&nbsp;2022-2023&nbsp; <a href="https://t.me/xhj1006" target="blank">Shadowrocket交流群</a>
-  
-    <script>
-    swal({
-               
-                title: "每30分钟更新",
-                text: '<h4 style="color:#181818">只能在桌面AppStore内登录ID</h4><hr><h4 style="color:#e91e63">千万不要在设置中登录！</h4><h4 style="color:#e91e63">不要绑定手机号注意隐私！</h4><hr><h4 style="font-size:18px;color:red">不按要求操作的可能会锁机</h4><br><span class="clock">10</span> 秒后自动关本窗口',
-                html: true,
-                timer: 10000,
-                showConfirmButton: false,
-                confirmButtonText: 'OK',
-            })
-    </script>
 	
-
-
-   
-<script type="text/javascript">
-   var timeClock;
-   function sendCode() {
-       var timer_num = 10;
-       timeClock=setInterval(function(){
-           timer_num--;
-           $('.clock').html(timer_num);
-           if (timer_num == 0) {
-               clearInterval(timeClock);
-               $('.clock').html(0);
-           } 
-       },1000)
-   }
-   sendCode();
-</script>
-
-
-
-</html>
